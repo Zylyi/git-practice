@@ -1,4 +1,28 @@
+body {
+    padding: 1px;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
 .out-element {
     padding: 2px;
     margin: 20px;
+}
+.menu-button {
+    background: #000;
+    color: wheat;
+    padding: 20px;
+}
+.menu {
+    display: none;
+    padding: 10px;
+    background: red;
+}
+.button {
+    padding: 15px;
+    background: blue;
+}
+
+.open {
+    display: block;
 }
